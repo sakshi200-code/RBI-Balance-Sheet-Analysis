@@ -38,3 +38,7 @@ This project analyzes the Reserve Bank of India's weekly balance sheet data, wit
 ## Notes
 
 The included notebooks are designed to run even if optional libraries such as Prophet or ruptures are unavailable. Optional sections contain guarded imports and clear fallback notes.
+
+## Disclaimer
+
+This project is intended for educational and research purposes. The analysis and interpretations are those of the author and do not represent the views or policies of the Reserve Bank of India.
