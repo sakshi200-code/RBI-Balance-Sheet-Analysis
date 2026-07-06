@@ -1,0 +1,30 @@
+{
+  "project": "RBI Balance Sheet Analysis",
+  "observations": 1007,
+  "date_min": "2001-07-06",
+  "date_max": "2020-08-21",
+  "files_created": [
+    "README.md",
+    "dashboard/PowerBI_Dashboard_Guide.md",
+    "dashboard/README.md",
+    "data/processed/cleaned_data.csv",
+    "data/processed/correlation_matrix.csv",
+    "data/processed/dashboard_kpis.csv",
+    "data/processed/monthly_growth_summary.csv",
+    "data/raw/RBI_Data.xlsx",
+    "notebooks/01_Data_Understanding.ipynb",
+    "notebooks/02_Data_Cleaning_and_Feature_Engineering.ipynb",
+    "notebooks/03_Exploratory_Data_Analysis.ipynb",
+    "notebooks/04_Statistical_Analysis.ipynb",
+    "notebooks/05_Time_Series_Analysis.ipynb",
+    "notebooks/06_Regression_and_Correlation.ipynb",
+    "notebooks/07_Anomaly_Detection_and_Clustering.ipynb",
+    "notebooks/08_Forecasting.ipynb",
+    "notebooks/09_PowerBI_Dashboard_Preparation.ipynb",
+    "notebooks/10_Final_Report_and_Insights.ipynb",
+    "reports/Executive_Summary.md",
+    "reports/Final_Report_Draft.md",
+    "requirements.txt",
+    "src/rbi_utils.py"
+  ]
+}
